@@ -1,0 +1,3 @@
+stad, kommun	Addresses.txt
+fornamn		Firstnames.txt
+efternamn	Lastnames.txt
